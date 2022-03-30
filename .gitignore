@@ -1,0 +1,9 @@
+# To comment something, use #.
+
+secrets/**
+*.pem
+*.pyc
+credential.*
+auth.*
+
+
